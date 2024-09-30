@@ -12,7 +12,8 @@ If you’re new to programming, start with **Python**. Python is easy to learn a
 - [Python for Beginners (Full Course)](https://youtu.be/_uQrJ0TkZlc?si=61r2B4DE6HzNnOU5)
 - [Python Crash Course - YouTube Playlist](https://youtube.com/playlist?list=PL_Z59lfOPBXfn7eFokt2XYwMJVBrjrOHb&si=UVDdb_yHjx28FY6I)
 - [Python Learning Repository (DOCS)](https://github.com/Tanu-N-Prabhu/Python)
-
+- [python download link](https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe)
+- [Pycharm (Python IDE) Download link ](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
 ---
 
 ### For Those with Some Programming Experience
