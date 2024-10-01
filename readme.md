@@ -41,7 +41,16 @@ After gaining JavaScript proficiency, dive into **React.js**, one of the most po
 - [Build a Complete React.js App](https://youtu.be/wIyHSOugGGw?si=QaHen2OBx_LMa6s4)
 
 ---
-
+### Cybersecurity 
+ - [ Free cyber resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
+ - [CTF sites] (https://ctfsites.github.io/)
+ - [Penetration testing and security audit tips] (https://book.hacktricks.xyz/)
+ - [cybersecurity lessons](https://opensecuritytraining.info/Learning%20Paths.html)
+---
+### C++
+- [intro to c++](https://www.studyplan.dev/intro-to-programming)
+- [ algorithms in c++](https://thealgorithms.github.io/C-Plus-Plus)
+---
 ## Choose Your Path
 
 Whether you prefer video tutorials or official documentation, there's a path for you! Make sure to practice regularly, build projects, and explore additional resources as you learn.
