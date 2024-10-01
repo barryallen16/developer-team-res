@@ -21,6 +21,7 @@ If you’re new to programming, start with **Python**. Python is easy to learn a
 If you have a bit of programming background, start with **JavaScript**. JavaScript is essential for web development and will prepare you for frameworks like React.
 
 #### JavaScript Resources:
+- [Brocode JavaScript Tutorial](https://youtu.be/lfmg-EJ8gm4)
 - [JavaScript for Beginners (Full Course)](https://youtu.be/EerdGm-ehJQ?si=AqlwSbOdUblKrnDw)
 
 Once you've learned the basics of JavaScript, move on to the following:
