@@ -43,8 +43,8 @@ After gaining JavaScript proficiency, dive into **React.js**, one of the most po
 ---
 ### Cybersecurity 
  - [ Free cyber resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
- - [CTF sites] (https://ctfsites.github.io/)
- - [Penetration testing and security audit tips] (https://book.hacktricks.xyz/)
+ - [CTF sites](https://ctfsites.github.io/)
+ - [Penetration testing and security audit tips](https://book.hacktricks.xyz/)
  - [cybersecurity lessons](https://opensecuritytraining.info/Learning%20Paths.html)
 ---
 ### C++
